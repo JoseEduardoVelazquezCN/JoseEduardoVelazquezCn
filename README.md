@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">A passionate jr FrontEnd developer from México 🐤 </h3>
+<img src="https://ibb.co/SyD7V0M" alt="joseeduardovelazquezcn" width="60" height="40"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseeduardovelazquezcn&label=Profile%20views&color=0e75b6&style=flat" alt="joseeduardovelazquezcn" /> </p>
 
