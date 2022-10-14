@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">A passionate jr FrontEnd developer from México 🐤 </h3>
-[![github-JEVCN.png](https://i.postimg.cc/43Gk3bYH/github-JEVCN.png)](https://postimg.cc/DSxYjGd7)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseeduardovelazquezcn&label=Profile%20views&color=0e75b6&style=flat" alt="joseeduardovelazquezcn" /> </p>
 
